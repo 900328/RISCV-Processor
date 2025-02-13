@@ -1,0 +1,19 @@
+{
+    "valid[0]"     : "dut.wb_stage.commit",
+    "order[0]"     : "dut.wb_stage.order",
+    "inst[0]"      : "dut.wb_stage.mem_wb.inst",
+    "rs1_addr[0]"  : "dut.wb_stage.mem_wb.rs1_s",
+    "rs2_addr[0]"  : "dut.wb_stage.mem_wb.rs2_s",
+    "rs1_rdata[0]" : "dut.wb_stage.mem_wb.rs1_v",
+    "rs2_rdata[0]" : "dut.wb_stage.mem_wb.rs2_v",
+    "rd_addr[0]"   : "dut.wb_stage.mem_wb.rd_s",
+    "rd_wdata[0]"  : "dut.wb_stage.rd_v",
+    "pc_rdata[0]"  : "dut.wb_stage.mem_wb.pc",
+    "pc_wdata[0]"  : "dut.wb_stage.mem_wb.rvfi_pc_wdata",
+    "mem_addr[0]"  : "dut.wb_stage.mem_wb.dmem_addr",
+    "mem_rmask[0]" : "dut.wb_stage.mem_wb.dmem_rmask",
+    "mem_wmask[0]" : "dut.wb_stage.mem_wb.dmem_wmask",
+    "mem_rdata[0]" : "dut.wb_stage.rvfi_dmem_rdata",
+    "mem_wdata[0]" : "dut.wb_stage.mem_wb.dmem_wdata"
+}
+

@@ -1,0 +1,10 @@
+{
+    "synth": {
+        "compile_ultra" : true,
+        "ungroup"       : true,
+        "gate_clock"    : true,
+        "retime"        : true,
+        "min_power"     : true,
+        "inc_iter"      :10
+    }
+}

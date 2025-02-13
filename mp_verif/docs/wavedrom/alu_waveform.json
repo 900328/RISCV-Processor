@@ -1,0 +1,12 @@
+{signal:
+  [
+    {name: 'clk'    , wave: 'p..|..'},
+    {name: 'a'      , wave: 'x5x|..'},
+    {name: 'b'      , wave: 'x5x|..'},
+    {name: 'aluop'  , wave: 'x5x|..'},
+    {name: 'valid_i', wave: '010|..'},
+    {name: 'f'      , wave: 'x..|5x'},
+    {name: 'valid_o', wave: '0..|10'}
+  ],
+  config: { hscale: 1 }
+}

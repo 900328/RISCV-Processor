@@ -1,0 +1,7 @@
+{signal: [
+  {name: 'clk'      , wave: 'p...........'},
+  {name: 'rst'      , wave: '01.0........'},
+  {name: 'shift_reg', wave: 'x.5.6....89.', data: ['eceb', 'f675', 'fb3a', '7d9d']},
+  {name: 'rand_bit' , wave: 'x...1x...10x'},
+  {name: 'en'       , wave: '0..10...1.0.'},
+]}
