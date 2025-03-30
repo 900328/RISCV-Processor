@@ -1,0 +1,36 @@
+<session version="1.1" release="W-2024.09" timestp="2025-03-14 19:53:12 GMT">
+  <info>
+    <attr name="datetime" value="Fri Mar 14 14:53:30 2025
+"/>
+    <attr name="command" value="urg -dir top_tb.vdb"/>
+    <attr name="top_instance" value="top_tb"/>
+  </info>
+  <hvp>
+    <datadef>
+      <metdef name="Assert" type="ratio" aggregator="average" builtin="1" />
+    </datadef>
+  </hvp>
+  <old_coverage>
+  <scope type="top" name="top">
+    <metric name="Assert" value="74/84" />
+  </scope>
+  <scope type="instance" name="top">
+  </scope>
+  <scope type="group" name="top">
+  </scope>
+  <scope type="assert" name="Statistics">
+    <scorelist type="total" name="Design Hierarchy Assert">
+      <score name="Assert" value="74/84" />
+      <score name="Score" value="88.10" />
+    </scorelist>
+    <scorelist type="total" name="Module List Assert">
+      <score name="Assert" value="21/21" />
+      <score name="Score" value="100.00" />
+    </scorelist>
+    <scorelist type="total" name="Assertion">
+      <score name="Assert" value="74/84" />
+      <score name="Score" value="88.10" />
+    </scorelist>
+  </scope>
+  </old_coverage>
+</session>
